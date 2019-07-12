@@ -1,0 +1,59 @@
+.pull-right {
+    float: right !important;
+}
+
+.msg-box {
+    background: #f1f2ea;
+    border: 1px solid #c7cbab;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+    color: #727272;
+}
+
+.msg-box p{
+    margin: 0;
+    padding: 2px 0;
+}
+
+.bd-navbar {
+    background: #f91b1b;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+.navbar-nav a {
+    float: right;
+    color: #f1f2ea !important;
+}
+
+.h1-painel {
+    color: #f1f2ea;
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.login{
+    margin-top: 150px;
+}
+
+.container-content {
+    margin-top: 30px;
+}
+
+.content_h2 {
+    margin-bottom: 20px;
+}
+
+.item-usuario {
+    padding: 0.5rem;
+    color: #fff;
+}
+
+.dados_condominio {
+    display: none;
+}
